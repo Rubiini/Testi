@@ -11,7 +11,7 @@ namespace Konsultit
         static void Main(string[] args)
         {
             List<string> s = new List<string>();
-            
+            s.Add(" ");
         }
     }
 }
